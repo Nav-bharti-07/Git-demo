@@ -1,2 +1,2 @@
 # Git-demo
-Here we will learn how to operate Git &amp; Github  
+Here we will learn how to operate Git &amp; Github.
